@@ -1,0 +1,9 @@
+D:\VS Projects\ExamKremza\ExamKremza\bin\Debug\ExamKremza.exe.config
+D:\VS Projects\ExamKremza\ExamKremza\bin\Debug\ExamKremza.exe
+D:\VS Projects\ExamKremza\ExamKremza\bin\Debug\ExamKremza.pdb
+D:\VS Projects\ExamKremza\ExamKremza\obj\Debug\ExamKremza.Form1.resources
+D:\VS Projects\ExamKremza\ExamKremza\obj\Debug\ExamKremza.Properties.Resources.resources
+D:\VS Projects\ExamKremza\ExamKremza\obj\Debug\ExamKremza.csproj.GenerateResource.cache
+D:\VS Projects\ExamKremza\ExamKremza\obj\Debug\ExamKremza.exe
+D:\VS Projects\ExamKremza\ExamKremza\obj\Debug\ExamKremza.pdb
+D:\VS Projects\ExamKremza\ExamKremza\obj\Debug\ExamKremza.csprojAssemblyReference.cache
